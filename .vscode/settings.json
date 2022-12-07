@@ -1,0 +1,13 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.useBrowserPreview": false,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.wait": 10,
+    "liveServer.settings.fullReload": false,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "livePreview.portNumber": 3000,
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.ChromeDebuggingAttachment": false
+}
